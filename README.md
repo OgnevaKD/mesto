@@ -1,6 +1,6 @@
 # Mesto
 
-Ссылка
+https://ognevakd.github.io/mesto/
 
 _&copy; 2023. Ксения Огнева_
 
