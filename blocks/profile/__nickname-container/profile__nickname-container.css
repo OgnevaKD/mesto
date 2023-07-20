@@ -1,0 +1,13 @@
+.profile__nickname-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+}
+
+@media screen and (max-width: 425px) {
+  .profile__nickname-container {
+    justify-content: center;
+    gap: 10px;
+  }
+}
